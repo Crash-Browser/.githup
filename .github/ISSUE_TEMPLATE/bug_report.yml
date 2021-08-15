@@ -20,10 +20,28 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: Describe the bug you encoutered
     validations:
       required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
   - type: dropdown
     id: browsers
     attributes:
@@ -35,9 +53,13 @@ body:
         - Safari
         - Microsoft Edge
         - Other
-  - type: textarea
-    id: logs
+  - type: dropdown
+    id: system
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: What is your operating system?
+      multiple: true
+      options:
+        - MacOS
+        - Windows (with WSL2)
+        - Windows 
+        - Linux
