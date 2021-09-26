@@ -1,4 +1,6 @@
-![css-ninja-hero-github](https://user-images.githubusercontent.com/86636408/134811112-01d10186-11a0-45bf-879d-2123eda9cccb.png)
+![css-ninja-hero-github-thin](https://user-images.githubusercontent.com/86636408/134811266-7aab4532-c308-40ca-a18c-47c7cfbe9564.png)
+
+
 
   
 ---
