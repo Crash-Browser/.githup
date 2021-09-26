@@ -10,5 +10,6 @@
   
 ---
 
-[Join us on discord](https://discord.gg/v2WR6ZvkQ4)  
+[Join us on discord](https://discord.gg/v2WR6ZvkQ4) |
+[Documentation portal](https://docs.cssninja.io)  
 
