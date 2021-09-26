@@ -11,5 +11,6 @@
 ---
 
 [Join us on discord](https://discord.gg/v2WR6ZvkQ4) |
-[Documentation portal](https://docs.cssninja.io)  
+[Documentation portal](https://docs.cssninja.io) |
+[Support portal](https://support.cssninja.io) 
 
