@@ -12,3 +12,5 @@
   <a href="https://docs.cssninja.io" title="Find latest documentation available for all our templates">Documentation portal</a> |
   <a href="https://support.cssninja.io" title="Get help from our products, request access to private repository, ...">Support portal</a>
 </p>
+
+---
