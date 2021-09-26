@@ -1,17 +1,14 @@
-<table>
-<tbody>
-<td align="center">
-                           
-**cssninjaStudio**  
-[cssninja.io](https://cssninja.io) | [themeforest](https://themeforest.net/user/cssninjastudio)
+<p align="center">
+  <h3 align="center">cssninjaStudio</h3>
+  <p align="center">
+    Sleek Themes for Startups
+    <br />
+    <a href="https://cssninja.io">cssninja.io</a> | <a href="https://themeforest.net/user/cssninjastudio">themeforest.net</a>
+    <br />
+  </p>
+</p>
   
-<img width="660" height="1">
-</td>
-<td align="center">
-  
+---
+
 [Join us on discord](https://discord.gg/v2WR6ZvkQ4)  
-  
-<img width="220" height="1">
-</td>
-</tbody>
-</table>
+
