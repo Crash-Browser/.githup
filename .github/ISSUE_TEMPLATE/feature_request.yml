@@ -8,11 +8,11 @@ body:
       value: |
         Thanks for taking the time to fill out this feature request!
   - type: input
-    id: contact
+    id: demo-url
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Demo URL
+      description: A link where we can see a similar feature
+      placeholder: ex. https://example.com
     validations:
       required: false
   - type: textarea
